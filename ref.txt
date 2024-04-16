@@ -1,0 +1,5 @@
+redis resp -- serializable protocol
+link -->> https://redis.io/docs/latest/develop/reference/protocol-spec/
+go resp lib --> https://pkg.go.dev/github.com/tidwall/resp#section-readme
+
+
